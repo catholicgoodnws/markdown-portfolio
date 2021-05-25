@@ -1,1 +1,6 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://github.com/catholicgoodnws)
+[Twitter](https://twitter.com/CatholicGoodNws)
+[Tumblr](https://catholicgoodnws.tumblr.com)
+[Instagram](https://www.instagram.com/goodcatholicnws)
+[Facebook](https://www.facebook.com/catholicgoodnws)
+[Blogspot](https://catholicgoodnws.blogspot.com)
