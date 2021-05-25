@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Catholic Good News
+## Spread the good news from the Catholic Bible
