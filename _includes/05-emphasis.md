@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Catholic Good News** joined the social media, specifically Youtube, on *April 6, 2021*. 
+
